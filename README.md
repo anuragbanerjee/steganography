@@ -1,5 +1,5 @@
 # Steganography Encoder/Decoder
 
-[Live Demo](https://github.com/anuragbanerjee/steganography/src)
+[Live Demo](https://anuragbanerjee.github.io/steganography/src)
 
 To start the the program locally, simply use `make`.
